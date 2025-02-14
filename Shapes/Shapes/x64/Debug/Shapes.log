@@ -1,0 +1,60 @@
+﻿  main.cpp
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(102,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(190,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(190,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(190,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(195,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(195,17): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(195,17): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(195,17): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(195,17): warning C4244:         ]
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(196,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(196,17): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(196,17): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(196,17): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(196,17): warning C4244:         ]
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(199,42): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(199,42): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(199,42): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(199,42): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(199,42): warning C4244:         ]
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(203,42): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(203,42): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(203,42): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(203,42): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(203,42): warning C4244:         ]
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(205,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(205,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(215,73): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(215,59): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(215,45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(221,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(221,17): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(221,17): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(221,17): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(221,17): warning C4244:         ]
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(222,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(222,17): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(222,17): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(222,17): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(222,17): warning C4244:         ]
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(226,39): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(226,39): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(226,39): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(226,39): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(226,39): warning C4244:         ]
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(230,39): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(230,39): warning C4244:         with
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(230,39): warning C4244:         [
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(230,39): warning C4244:             T=float
+C:\Users\Jack\Desktop\Shapes\Shapes\Shapes\src\main.cpp(230,39): warning C4244:         ]
+  Shape.cpp
+  imgui-SFML.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  Shapes.vcxproj -> C:\Users\Jack\Desktop\Shapes\Shapes\x64\Debug\Shapes.exe
