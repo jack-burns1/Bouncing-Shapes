@@ -11,7 +11,7 @@ Window [width] [height] (integers)
 Font [ttf filename] [font size (int)] [R] [G] [B (all int)]
 [Shape type (Rectangle or Circle)] [Dsiplay name] [x position (float)] [y position (float)] [x velocity (float)] [y velocity (float)] [R] [G] [B] [size*]
 
-for size, it is width and height for a rectangle, and radius for a circle*
+for size, it is width and height for a rectangle, and radius for a circle
 --------------------------------------------------------------------------------------------------
 Shapes will be drawn in their initial positions moving at their initial speeds. Additionally, 
 the shape name will be drawn in the specified font in the exact center of the shape.
